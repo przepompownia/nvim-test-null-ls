@@ -1,0 +1,5 @@
+/.config/nvim/site/
+/.config/vim/.viminfo
+/.config/vim/viminfo
+/.nvimlog
+/tools/
