@@ -1,0 +1,6 @@
+[submodule "pack/test/opt/nvim-lspconfig"]
+	path = pack/test/opt/nvim-lspconfig
+	url = https://github.com/przepompownia/nvim-lspconfig
+[submodule "pack/test/opt/null-ls.nvim"]
+	path = pack/test/opt/null-ls.nvim
+	url = https://github.com/jose-elias-alvarez/null-ls.nvim
