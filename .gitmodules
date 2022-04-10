@@ -4,3 +4,6 @@
 [submodule "pack/test/opt/null-ls.nvim"]
 	path = pack/test/opt/null-ls.nvim
 	url = https://github.com/jose-elias-alvarez/null-ls.nvim
+[submodule "pack/test/opt/plenary.nvim"]
+	path = pack/test/opt/plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim
